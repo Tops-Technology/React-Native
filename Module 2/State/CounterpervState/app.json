@@ -1,0 +1,12 @@
+{
+  "name": "CounterpervState",
+  "displayName": "CounterpervState",
+  "expo": {
+    "name": "CounterpervState",
+    "slug": "CounterpervState",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

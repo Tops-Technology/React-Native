@@ -1,0 +1,12 @@
+{
+  "name": "CustomHook",
+  "displayName": "CustomHook",
+  "expo": {
+    "name": "CustomHook",
+    "slug": "CustomHook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

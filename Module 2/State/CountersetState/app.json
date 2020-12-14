@@ -1,0 +1,12 @@
+{
+  "name": "CountersetState",
+  "displayName": "CountersetState",
+  "expo": {
+    "name": "CountersetState",
+    "slug": "CountersetState",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

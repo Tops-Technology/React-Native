@@ -1,0 +1,12 @@
+{
+  "name": "CounterStateObject",
+  "displayName": "CounterStateObject",
+  "expo": {
+    "name": "CounterStateObject",
+    "slug": "CounterStateObject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

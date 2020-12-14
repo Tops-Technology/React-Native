@@ -1,0 +1,12 @@
+{
+  "name": "UsingClass",
+  "displayName": "UsingClass",
+  "expo": {
+    "name": "UsingClass",
+    "slug": "UsingClass",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

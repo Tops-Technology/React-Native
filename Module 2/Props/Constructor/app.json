@@ -1,0 +1,12 @@
+{
+  "name": "Constructor",
+  "displayName": "Constructor",
+  "expo": {
+    "name": "Constructor",
+    "slug": "Constructor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

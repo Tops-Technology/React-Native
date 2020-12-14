@@ -1,0 +1,12 @@
+{
+  "name": "Counter",
+  "displayName": "Counter",
+  "expo": {
+    "name": "Counter",
+    "slug": "Counter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
